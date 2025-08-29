@@ -9,25 +9,25 @@ function App() {
     {
       icon: Menu,
       text: ' Cardápio Online',
-      url: '#cardapio',
+      url: './cardapio.pdf',
       gradient: 'from-orange-500 to-red-500'
     },
     {
       icon: MessageCircle,
       text: ' Peça pelo WhatsApp',
-      url: 'https://wa.me/5511999999999',
+      url: 'https://wa.me/5564993041007',
       gradient: 'from-green-500 to-green-600'
     },
     {
       icon: MapPin,
       text: ' Localização',
-      url: '#localizacao',
+      url: 'https://maps.app.goo.gl/o6eTQQQtVQtPnjhXA',
       gradient: 'from-blue-500 to-blue-600'
     },
     {
       icon: Instagram,
       text: ' Instagram',
-      url: 'https://instagram.com/esquinadoespetinho',
+      url: 'https://www.instagram.com/esquinadoespetinhoslmb/',
       gradient: 'from-purple-500 to-pink-500'
     }
   ];
