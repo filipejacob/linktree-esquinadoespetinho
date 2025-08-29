@@ -29,7 +29,7 @@ const Header: React.FC = () => {
       
       {/* Description */}
       <p className="text-lg md:text-xl text-orange-100 font-medium px-4 leading-relaxed">
-        🍖 Jantinha • Espetinhos • Churrasco na Brasa 🍺
+        🍖 Jantinha • Espetinhos • Porções • Bebidas 🍺
       </p>
       
       {/* Decorative elements */}
