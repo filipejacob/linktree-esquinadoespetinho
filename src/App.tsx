@@ -2,7 +2,7 @@ import React from 'react';
 import Header from './components/Header';
 import LinkButton from './components/LinkButton';
 import Footer from './components/Footer';
-import { Menu, MessageCircle, MapPin, Instagram } from 'lucide-react';
+import { Menu, MessageCircle, MapPin, Instagram, UtensilsCrossed } from 'lucide-react';
 
 function App() {
   const links = [
@@ -11,6 +11,12 @@ function App() {
       text: ' Cardápio Online',
       url: './cardapio.pdf',
       gradient: 'from-orange-500 to-red-500'
+    },
+    {
+      icon: UtensilsCrossed,
+      text: ' Peça - Mais Delivery',
+      url: 'https://maisdeliveryapp.com.br/web/loja.php?id=NTcyODU=',
+      gradient: 'from-red-500 to-red-600'
     },
     {
       icon: MessageCircle,
